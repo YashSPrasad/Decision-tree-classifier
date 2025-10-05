@@ -1,1 +1,2 @@
 # Decision-tree-classifier
+This kernel provides a comprehensive guide to building a Decision Tree Classifier using Python and Scikit-Learn. It walks through the process of predicting car safety by creating and comparing two models: one using the Gini index and the other using entropy. The tutorial covers essential concepts like attribute selection, overfitting, and model evaluation with tools like the confusion matrix and classification report.
